@@ -75,7 +75,5 @@ The experiments showed differences in convergence, stability, and final accuracy
 
 ## Future Work
 
-- Compare different learning rates
-- Experiment with deeper and wider networks
 - Compare fully connected networks with CNNs
 - Test the model on custom handwritten digits
